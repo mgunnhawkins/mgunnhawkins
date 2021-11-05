@@ -1,5 +1,5 @@
 ### Hello!  I'm Melanie Gunn!  I specialize in Java and React.
-Languages:JavaScript, Java        Frameworks:React, Thymeleaf   Tools: Jira, Trello
+**Languages:** JavaScript, Java   **Frameworks:** React, Thymeleaf   **Tools:**  Jira, Trello
 
 - 🔭 I’m currently working on a Playground Search Engine in React, a CodeSnippets database for new LaunchCode Students 
 - 🌱 I’m currently learning React
